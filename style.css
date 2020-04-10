@@ -26,5 +26,5 @@
     margin-left: -12%;
 }
 body{
-  overflow: hidden;
+  overflow-x: hidden;
 }
